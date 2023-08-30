@@ -135,6 +135,11 @@ const codingprofiles = [
     description: "Atcoder",
     link: "https://atcoder.jp/users/harishsugandhi",
   },
+  {
+    img: "https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg",
+    description: "Github",
+    link: "https://github.com/harishsganndhi123/",
+  },
 ];
 export {
   meta,
