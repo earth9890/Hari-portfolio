@@ -4,7 +4,7 @@ const meta = {
   description:
     "I’m Harish Sugandhi Software Engineer, Full stack devloper,currently persuing Bachelors of Computer Engineering",
 };
-
+// import { } from "../src/assets/images/MyPortfolio.png";
 const introdata = {
   title: "I’m Harish D. Sugandhi",
   animated: {
@@ -79,14 +79,20 @@ const dataportfolio = [
   },
 
   {
-    img: "https://images.unsplash.com/photo-1529390079861-591de354faf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN0dWRlbnQlMjBleGFtJTIwc3lzdGVtfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
-    description: "Student Examination System",
-    link: "https://github.com/harishsganndhi123/Java-Based-Examination-Portal-Using-Mysql-and-JSwing-Basics-",
+    img: "https://github.com/harishsganndhi123/DSBDL_DATASET/blob/Harish-Projects/Screenshot%202023-08-30%20at%203.24.19%20PM.png?raw=true",
+    description: "My Portfolio Website",
+    link: "https://github.com/harishsganndhi123/Hari-portfolio",
   },
+
   {
     img: "https://images.unsplash.com/photo-1555529733-0e670560f7e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
     description: "T-Shirt Selling E-Commerce Website",
     link: "https://github.com/harishsganndhi123/E-Commerce-Website",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1529390079861-591de354faf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN0dWRlbnQlMjBleGFtJTIwc3lzdGVtfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+    description: "Student Examination System",
+    link: "https://github.com/harishsganndhi123/Java-Based-Examination-Portal-Using-Mysql-and-JSwing-Basics-",
   },
 ];
 
