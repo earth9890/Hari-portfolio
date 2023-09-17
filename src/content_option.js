@@ -9,7 +9,7 @@ const meta = {
 };
 // import { } from "../src/assets/images/MyPortfolio.png";
 const introdata = {
-  title: "I’m Harish D. Sugandhi",
+  title: "I’m Harish Dhanraj Sugandhi",
   animated: {
     first: "I love coding",
     second: "I love competitive programming",
