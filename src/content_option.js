@@ -1,6 +1,6 @@
 const logotext = "Hari";
 // import yourImage from "./assets/images/myphoto_white.svg";
-import yourImage from "./assets/images/myphoto-original_hockday.png";
+import yourImage from "./assets/images/myphoto_no_kapwig.png";
 
 const meta = {
   title: "Harish Sugandhi",
