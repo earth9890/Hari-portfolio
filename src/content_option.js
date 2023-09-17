@@ -1,4 +1,7 @@
 const logotext = "Hari";
+// import yourImage from "./assets/images/myphoto_white.svg";
+import yourImage from "./assets/images/myphoto-original_hockday.png";
+
 const meta = {
   title: "Harish Sugandhi",
   description:
@@ -13,7 +16,8 @@ const introdata = {
     third: "I develop websites and mobile apps",
   },
   description: "",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: yourImage,
+  // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
