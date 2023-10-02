@@ -56,7 +56,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <a
-                    href="https://drive.google.com/file/d/1O9Wb4X--_95CWel7lIMPe1qTCO5CLqpQ/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1jQTb6TpG-Vmix-oo46SQO9APXdbr9Aah/view?usp=drive_link"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
