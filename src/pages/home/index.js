@@ -56,8 +56,8 @@ export const Home = () => {
                     </div>
                   </Link>
                   <a
-                    href="https://drive.google.com/file/d/1jQTb6TpG-Vmix-oo46SQO9APXdbr9Aah/view?usp=drive_link"
-                    target="_blank"
+                    href="https://drive.google.com/file/d/1lJVqg5WczCMlBAiNURTAAUgdZ_v07meu/view?usp=sharing"
+                    target="_new"
                     rel="noopener noreferrer"
                   >
                     <div id="button_r" className="ac_btn btn">

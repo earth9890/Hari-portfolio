@@ -23,7 +23,7 @@ const introdata = {
 const dataabout = {
   title: " About my self",
   aboutme:
-    "Hello, I am Harish and I am a software developer and I love competitive programming. I am from Solapur but currently lives in Pune and I am in last year of my Bachelors in Computer Engineering. I develop mobile apps and website. I am more familiar to work with C++, Java and MERN stack. ",
+    "Hello, I am Harish and I am a software developer and I love competitive programming. I am from Solapur but currently lives in Pune and I am in last year of my Bachelors in Computer Engineering. I develop mobile apps and website. I am more familiar to work with C++, Java and MERN stack, Tailwind CSS, Docker/Docker-Compose and Kubernates ",
 };
 const worktimeline = [
   {
@@ -44,20 +44,38 @@ const skills = [
   },
   {
     name: "Javascript",
-    value: 80,
+    value: 90,
   },
   {
     name: "React",
-    value: 60,
+    value: 85,
+  },
+
+  {
+    name: "Node",
+    value: 85,
   },
   {
-    name: "MERN",
+    name: "Express",
     value: 85,
   },
   {
     name: "MySQL",
-    value: 75,
+    value: 90,
   },
+  {
+    name: "MongoDB",
+    value: 85,
+  },
+  {
+    name: "Docker",
+    value: 80,
+  },
+  {
+    name: "Kubernates",
+    value: 80,
+  },
+
   {
     name: "Android",
     value: 78,
@@ -107,15 +125,16 @@ const contactConfig = {
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_zelsp2e",
-  YOUR_TEMPLATE_ID: "template_id",
-  YOUR_USER_ID: "user_id",
+  YOUR_TEMPLATE_ID: "template_wcjv11o",
+  YOUR_USER_ID: "_wePhGtvZ8KulPoEg",
 };
 
 const socialprofils = {
   github: "https://github.com/harishsganndhi123/",
   facebook: "https://www.facebook.com/harish.sugandhi.14",
   linkedin: "https://www.linkedin.com/in/harish-sugandhi-709bba225/",
-  twitter: "https://twitter.com/harish_sug87023",
+  twitter: "https://twitter.com/earth7387",
+  instagram: "https://www.instagram.com/harishsugandhi_/",
 };
 // const codingprofile1s = {
 //   codeforces: "https://codeforces.com/profile/earth9890",
