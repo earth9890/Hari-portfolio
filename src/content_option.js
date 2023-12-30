@@ -97,24 +97,24 @@ const dataportfolio = [
   {
     img: "https://plus.unsplash.com/premium_photo-1661297461253-ae1968b5d46c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
     description: "Smart Home Project",
-    link: "https://github.com/harishsganndhi123/Android-App-for-Home-Automation-to-Control-Bluetooth--HC-05",
+    link: "https://github.com/earth9890/Android-App-for-Home-Automation-to-Control-Bluetooth--HC-05",
   },
 
   {
-    img: "https://github.com/harishsganndhi123/DSBDL_DATASET/blob/Harish-Projects/Screenshot%202023-08-30%20at%203.24.19%20PM.png?raw=true",
+    img: "https://github.com/earth9890/DSBDL_DATASET/blob/Harish-Projects/Screenshot%202023-08-30%20at%203.24.19%20PM.png?raw=true",
     description: "My Portfolio Website",
-    link: "https://github.com/harishsganndhi123/Hari-portfolio",
+    link: "https://github.com/earth9890/Hari-portfolio",
   },
 
   {
     img: "https://images.unsplash.com/photo-1555529733-0e670560f7e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
     description: "T-Shirt Selling E-Commerce Website",
-    link: "https://github.com/harishsganndhi123/E-Commerce-Website",
+    link: "https://github.com/earth9890/E-Commerce-Website",
   },
   {
     img: "https://images.unsplash.com/photo-1529390079861-591de354faf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN0dWRlbnQlMjBleGFtJTIwc3lzdGVtfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
     description: "Student Examination System",
-    link: "https://github.com/harishsganndhi123/Java-Based-Examination-Portal-Using-Mysql-and-JSwing-Basics-",
+    link: "https://github.com/earth9890/Java-Based-Examination-Portal-Using-Mysql-and-JSwing-Basics-",
   },
 ];
 
@@ -130,7 +130,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-  github: "https://github.com/harishsganndhi123/",
+  github: "https://github.com/earth9890/",
   facebook: "https://www.facebook.com/harish.sugandhi.14",
   linkedin: "https://www.linkedin.com/in/harish-sugandhi-709bba225/",
   twitter: "https://twitter.com/earth7387",
@@ -167,7 +167,7 @@ const codingprofiles = [
   {
     img: "https://static.vecteezy.com/system/resources/previews/016/833/880/original/github-logo-git-hub-icon-with-text-on-white-background-free-vector.jpg",
     description: "Github",
-    link: "https://github.com/harishsganndhi123/",
+    link: "https://github.com/earth9890/",
   },
 ];
 export {
