@@ -130,11 +130,12 @@ const contactConfig = {
 };
 
 const socialprofils = {
+  instagram: "https://www.instagram.com/harishsugandhi_/",
   github: "https://github.com/earth9890/",
   facebook: "https://www.facebook.com/harish.sugandhi.14",
   linkedin: "https://www.linkedin.com/in/harish-sugandhi-709bba225/",
-  twitter: "https://twitter.com/earth7387",
-  instagram: "https://www.instagram.com/harishsugandhi_/",
+  twitter: "https://twitter.com/earth7387"
+  ,
 };
 // const codingprofile1s = {
 //   codeforces: "https://codeforces.com/profile/earth9890",
