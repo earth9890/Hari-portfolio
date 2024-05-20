@@ -15,6 +15,13 @@ export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
+         {socialprofils.instagram && (
+          <li>
+            <a href={socialprofils.instagram} target="_blank">
+              <FaLinkedin />
+            </a>
+          </li>
+        )}
         {socialprofils.twitter && (
           <li>
             <a href={socialprofils.twitter} target="_blank">
@@ -40,13 +47,6 @@ export const Socialicons = (params) => {
           <li>
             <a href={socialprofils.linkedin} target="_blank">
               <FaInstagram />
-            </a>
-          </li>
-        )}
-        {socialprofils.instagram && (
-          <li>
-            <a href={socialprofils.instagram} target="_blank">
-              <FaLinkedin />
             </a>
           </li>
         )}
