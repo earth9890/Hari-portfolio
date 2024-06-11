@@ -94,22 +94,26 @@ const services = [
 ];
 
 const dataportfolio = [
-  {
-    img: "https://plus.unsplash.com/premium_photo-1661297461253-ae1968b5d46c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
-    description: "Smart Home Project",
-    link: "https://github.com/earth9890/Android-App-for-Home-Automation-to-Control-Bluetooth--HC-05",
-  },
 
   {
     img: "https://github.com/earth9890/DSBDL_DATASET/blob/Harish-Projects/Screenshot%202023-08-30%20at%203.24.19%20PM.png?raw=true",
     description: "My Portfolio Website",
     link: "https://github.com/earth9890/Hari-portfolio",
   },
-
+  {
+    img: "https://seekvectors.com/files/download/82f5df23d596f3b8fb45a2b73e1ab888.jpg",
+    description: "Swiggy Clone",
+    link: "https://bsf-swiggy.vercel.app",
+  },
+  {
+    img: "https://github.com/earth9890/DSBDL_DATASET/blob/Harish-Projects/image.png?raw=true",
+    description: "T-Shirt Selling E-Commerce Website (MERN + Tailwind CSS)",
+    link: "https://shopping-basket-frontend.vercel.app/",
+  },
   {
     img: "https://github.com/earth9890/DSBDL_DATASET/blob/Harish-Projects/image.png?raw=true",
     description: "T-Shirt Selling E-Commerce Website",
-    link: "https://shopping-basket-frontend.vercel.app/",
+    link: "https://keepshopping.onrender.com/",
   },
   {
     img: "https://images.unsplash.com/photo-1529390079861-591de354faf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN0dWRlbnQlMjBleGFtJTIwc3lzdGVtfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
