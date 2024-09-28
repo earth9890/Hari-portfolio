@@ -1,6 +1,25 @@
 const logotext = "Hari";
 // import yourImage from "./assets/images/myphoto_white.svg";
-import yourImage from "./assets/images/myphoto_no_kapwig.png";
+// import yourImage from "./assets/images/IMG_3617.png";
+
+const imageArray = [
+
+	"https://cdn-std.droplr.net/files/acc_1332117/Lzox86",
+	"https://cdn-std.droplr.net/files/acc_1332117/l0YCgL",
+	"https://cdn-std.droplr.net/files/acc_1332117/RAxMtm",
+	"https://cdn-std.droplr.net/files/acc_1332117/pl6Usn",
+	"https://cdn-std.droplr.net/files/acc_1332117/dWX5r2",
+	"https://cdn-std.droplr.net/files/acc_1332117/G6NfN0",
+	"https://cdn-std.droplr.net/files/acc_1332117/KHoSXW",
+	"https://cdn-std.droplr.net/files/acc_1332117/fPkhcr"
+
+];
+
+// Function to select a random image from the array
+const getRandomImage = () => {
+	const randomIndex = Math.floor(Math.random() * imageArray.length);
+	return imageArray[randomIndex];
+};
 
 const meta = {
   title: "Harish Sugandhi",
@@ -16,7 +35,7 @@ const introdata = {
     third: "I develop websites and mobile apps",
   },
   description: "",
-  your_img_url: yourImage,
+	your_img_url: getRandomImage(),
   // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
