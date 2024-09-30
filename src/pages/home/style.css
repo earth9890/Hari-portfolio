@@ -6,6 +6,28 @@ section {
     -o-transition: all .5s ease-in;
     transition: all .5s ease-in;
 }
+
+/* Reload button style */
+.reload-btn {
+  position: absolute;
+  bottom: 150px;  /* Adjust as needed to move the button from the bottom */
+  left: 50%;     /* Position horizontally centered */
+  transform: translateX(-50%);  /* Center the button horizontally */
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  z-index: 100; /* Make sure it's on top of the image */
+}
+
+.reload-btn:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+
 .who_am_I {
     font-family: Cinzel;
 }
