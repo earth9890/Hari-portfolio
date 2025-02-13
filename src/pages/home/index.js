@@ -9,7 +9,6 @@ import { Link } from "react-router-dom";
 const imageArray = [
 	"https://cdn-std.droplr.net/files/acc_1332117/Lzox86",
 	"https://cdn-std.droplr.net/files/acc_1332117/l0YCgL",
-	"https://cdn-std.droplr.net/files/acc_1332117/RAxMtm",
 	"https://cdn-std.droplr.net/files/acc_1332117/pl6Usn",
 	"https://cdn-std.droplr.net/files/acc_1332117/dWX5r2",
 	"https://cdn-std.droplr.net/files/acc_1332117/G6NfN0",
